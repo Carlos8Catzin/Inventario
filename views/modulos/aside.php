@@ -1,11 +1,11 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4" style="min-height: 764px; position: fixed;">
-    <a href="inicio" class="brand-link">
+<?php   /*<a href="inicio" class="brand-link">
         <img src="views/dist/img/AdminLTELogo.png"
            alt="SIstema de punto de venta"
            class="brand-image img-circle elevation-3"
            style="opacity: .8">
       <span class="brand-text font-weight-light" style="font-weight: bolder; font-size: 14px;">SISTEMA POS INVENTARIO</span>
-    </a>
+    </a>*/ ?>
     <div class="sidebar">
       <!-- Sidebar user (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
