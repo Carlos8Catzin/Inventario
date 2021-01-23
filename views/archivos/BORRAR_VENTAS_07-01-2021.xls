@@ -1,0 +1,12 @@
+<br />
+<b>Warning</b>:  mysqli_num_fields() expects parameter 1 to be mysqli_result, bool given in <b>C:\xampp\htdocs\POSInventario\views\modulos\query\EjecutaExcel.php</b> on line <b>30</b><br />
+<br />
+<b>Warning</b>:  mysqli_fetch_field() expects parameter 1 to be mysqli_result, bool given in <b>C:\xampp\htdocs\POSInventario\views\modulos\query\EjecutaExcel.php</b> on line <b>36</b><br />
+<br />
+<b>Warning</b>:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in <b>C:\xampp\htdocs\POSInventario\views\modulos\query\EjecutaExcel.php</b> on line <b>45</b><br />
+<table style="font-size: 18px; font-family: Arial; border:1px solid #f8f9fa;">
+                <thead>
+                    <tr style="font-weigth: bold; border:1px solid #f8f9fa;"></tr>
+                </thead>
+                <tbody>
+</tbody></table>

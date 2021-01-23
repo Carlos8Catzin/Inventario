@@ -1,0 +1,6 @@
+<table style="font-size: 18px; font-family: Arial; border:1px solid #f8f9fa;">
+                <thead>
+                    <tr style="font-weigth: bold; border:1px solid #f8f9fa;"><th>RowNum</th><th>Folio</th><th>Operacion</th><th>Ruta</th><th>IdUsuarioEject</th><th>Consulta</th><th>Fecha</th><th>Estatus</th></tr>
+                </thead>
+                <tbody>
+<tr style="border:1px solid #f8f9fa;"><td>1</td><td>100484</td><td>ELIMINAR REPORTE</td><td>REPORTES</td><td>ADMINISTRADOR</td><td><b>ID del Reporte: </b>17 <br><b>Nombre del Reporte: </b>Reporte de Ventas de las fechas del 4 al 5 de <br></td><td>2021-01-07 12:22:38</td><td>APLICADO</td></tr><tr style="border:1px solid #f8f9fa;"><td>2</td><td>100483</td><td>ELIMINAR REPORTE</td><td>REPORTES</td><td>ADMINISTRADOR</td><td><b>ID del Reporte: </b> <br><b>Nombre del Reporte: </b> <br></td><td>2021-01-07 12:21:34</td><td>RECHAZADO</td></tr></tbody></table>

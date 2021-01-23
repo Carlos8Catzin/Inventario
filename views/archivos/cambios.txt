@@ -1,0 +1,39 @@
+parametros de grupo
+
+private void tbImpMinimoAnual_Leave(object sender, EventArgs e)
+        {
+            if (tbImpMinimoAnual.Text != string.Empty)
+            {
+                if (!ClsFormateaCampos.Valida_Textbox_Lenght(ref tbImpMinimoAnual, 8, 2))
+                {
+                    MessageBox.Show("Debe tener el formato ########.##", ProductName, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    tbImpMinimoAnual.Text = string.Empty;
+                    tbImpMinimoAnual.Focus();
+                    return;
+                }
+                ClsFormateaCampos.FormatoN2(ref tbImpMinimoAnual);
+            }
+        }
+
+
+private void ValidaParamXFormCal()
+
+if (tbImpMaximoAnual.Text.Equals(string.Empty))
+                {
+                    //MessageBox.Show("EL campo Importe Máximo Anual para Porcentaje Pactado es Obligatorio", ProductName, MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                    //ClsVariablesG.VALIDACION = 1;
+                    //tbImpMaximoAnual.Text = string.Empty;
+                    //tbImpMaximoAnual.Focus();
+                    //return;
+                    tbImpMaximoAnual.Text = "0";
+                }
+
+if (tbImpMinimoAnual.Text.Equals(string.Empty))
+                {
+                    //MessageBox.Show("EL campo Importe Mínimo Anual para Porcentaje Pactado es Obligatorio", ProductName, MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                    //ClsVariablesG.VALIDACION = 1;
+                    //tbImpMinimoAnual.Text = string.Empty;
+                    //tbImpMinimoAnual.Focus();
+                    //return;
+                    tbImpMinimoAnual.Text = "0";
+                }
