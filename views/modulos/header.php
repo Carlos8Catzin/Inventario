@@ -10,10 +10,10 @@
       </li>
 	  <li class="nav-item">
         <a class="nav-link font-weight-bold text-uppercase" href="inicio" role="button"><img src="views/dist/img/AdminLTELogo.png"
-           alt="SIstema de punto de venta"
+           alt="Sistema de punto de venta"
            class="brand-image img-circle elevation-3"
-           style="opacity: .8">
-      <span class="brand-text font-weight-light">Novedades San Juan</span>
+           style="opacity: .8; margin-top: -10px;" width="40" height="40">
+      Novedades San Juan
     </a>
       </li>
     </ul>
