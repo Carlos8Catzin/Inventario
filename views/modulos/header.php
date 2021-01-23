@@ -8,6 +8,14 @@
       <li class="nav-item">
         <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
       </li>
+	  <li class="nav-item">
+        <a class="nav-link font-weight-bold text-uppercase" href="inicio" role="button"><img src="views/dist/img/AdminLTELogo.png"
+           alt="SIstema de punto de venta"
+           class="brand-image img-circle elevation-3"
+           style="opacity: .8">
+      <span class="brand-text font-weight-light">Novedades San Juan</span>
+    </a>
+      </li>
     </ul>
         <ul class="navbar-nav ml-auto">
             <li class="nav-item dropdown">

@@ -1,5 +1,8 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4" style="min-height: 764px; position: fixed;">
     <?php /*<a href="inicio" class="brand-link">
+=======
+<?php   /*<a href="inicio" class="brand-link">
+>>>>>>> origin/master
         <img src="views/dist/img/AdminLTELogo.png"
            alt="SIstema de punto de venta"
            class="brand-image img-circle elevation-3"
